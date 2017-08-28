@@ -11,3 +11,18 @@
 ファシスト派は6つのファシストの政策をを制定するか、3つのファシストの政策が制定された後にヒットラーが首相に選ばれると勝利します。
 ファシストの政策が制定されると、政府はより強力になり、大統領は次のラウンドが始まる時に使うことのできる一度だけ使える権力を得ます。
 大統領がどちらの陣営にいるかは問題ではありません。実際、リベラル派のプレーヤーですら新しい権力を得るためにファシスト派の政策を選ぶ誘惑に負けるかもしれません。
+
+
+OBJECT
+Every player has a secret identity as a member
+of either the Liberal team or the Fascist team.
+Players on the Liberal team win if either:
+• Five Liberal Policies are enacted.
+OR
+• Hitler is assassinated.
+Players on the Fascist team win if either:
+• Six Fascist Policies are enacted.
+OR
+• Hitler is elected Chancellor any time after
+the third Fascist Policy has been enacted.
+
