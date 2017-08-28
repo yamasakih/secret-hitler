@@ -21,3 +21,20 @@
 ファシスト派陣営のプレーヤーの勝利条件は以下のいずれかを達成することです。
 ・6つのファシスト派の政策を制定する。
 ・3つのファシスト派の政策が制定された後に、いずれかのタイミングでヒットラーが首相に選ばれる。
+
+
+GAME CONTENTS
+17 .......... Policy tiles
+ (6 Liberal, 11 Fascist)
+10 .......... Secret Role cards
+10 .......... Party Membership cards
+10 .......... card envelopes
+10 .......... Ja! Ballot cards
+10 .......... Nein Ballot cards
+1 .......... Election Tracker marker
+1 .......... Draw pile card
+1 .......... Discard pile card
+3 .......... Liberal/Fascist boards
+1 .......... President placard
+1 .......... Chancellor placard
+
