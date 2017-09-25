@@ -38,10 +38,18 @@
 大統領プラカード×1枚
 首相プラカード×1枚
 
+戦略メモ
+・全員が私はリベラル派だと主張します。
+リベラル派は投票において多数派なので、ファシストだと主張する誰かを黙らせることは簡単です。ファシスト派にとって、多数派のリベラル派にむかって私はファシストだと主張することはまったく利点がありません。加えて、リベラル派は常に真実を話すべきです。リベラル派はパズルのようなゲームを理解しようとしているので、嘘をついてしまうとチームに大きな不利益を与える可能性があります。
+・ヒットラーとして初めてプレイするのなら「可能な限りリベラル派として振る舞え」と言うことだけ覚えておいてください。
+リベラル派の政策を制定し、リベラル派の政府に投票しなさい。赤ちゃんにキスをして、仲間のファシスト派があなたがリベラル派の政策を制定するチャンスを作ってくれ、彼らのターンの時にファシズムを進めるのを信じなさい。
 STRATEGY NOTES
-• Everyone should claim to be a Liberal. Since the Liberal team has a voting majority, it can easily shut out any player claiming to be a Fascist. As a Fascist, there is no advantage to outing yourself to the majority. Additionally, Liberals should usually tell the truth. 
+• Everyone should claim to be a Liberal. 
+Since the Liberal team has a voting majority, it can easily shut out any player claiming to be a Fascist. As a Fascist, there is no advantage to outing yourself to the majority. 
+Additionally, Liberals should usually tell the truth. 
 Liberals are trying to figure out the game like a puzzle, so lying can put their team at a significant disadvantage.
-• If this is your first time playing Hitler, just remember: be as Liberal as possible. Enact Liberal Policies. Vote for Liberal governments.  
+• If this is your first time playing Hitler, just remember: be as Liberal as possible. 
+Enact Liberal Policies. Vote for Liberal governments.  
 Kiss babies. Trust your fellow Fascists to create opportunities for you to enact Liberal Policies and to advance Fascism on their turns.
 The Fascists win by subtly manipulating the table and waiting for the right cover to enact Fascist Policies, not by overtly playing as evil.
 • Liberals frequently benefit from slowing play down and discussing the available information. Fascists frequently benefit from rushing votes and creating confusion.
